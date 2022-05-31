@@ -14,7 +14,7 @@ public class CreateOrganizationTest extends BaseClass
 	CreateNewOrgNamePage createnameorganization;
 	CreateNewOrgNamePage saveorg;
 
-	// annotations
+	// annotations are used
 	@Test(groups="sanity")
 
 	public  void createOrganization() throws InterruptedException
